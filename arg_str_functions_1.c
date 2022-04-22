@@ -6,6 +6,8 @@
  * print_percent -  print percent character
  * @args: char
  * Return: percent character
+ *
+ *
  */
 
 int print_percent(va_list args __attribute__((unused)))
